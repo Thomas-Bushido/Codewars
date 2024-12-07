@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+// Draw stairs
+// Given a number n, draw stairs using the letter "I", n tall and n wide, with the tallest in the top left.
+
+// For example n = 3 result in:
+// "I\n I\n  I"
