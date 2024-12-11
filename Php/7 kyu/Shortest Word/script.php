@@ -17,4 +17,4 @@ return $min_length;
 
 $str = "bitcoin take over the world maybe who knows perhaps";
 
-findShort($str);
+echo findShort($str);
